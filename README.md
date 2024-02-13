@@ -40,7 +40,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Process
 
-This week we were not given starter code. 
+This week we were not given starter code.
+
 Programs used to handle queries / manage database
 ```
 MySQL Workbench, MAMP, Node.js
