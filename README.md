@@ -41,16 +41,24 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Process
 
 This week we were not given starter code. 
-Programs used to handle queries / manage database: MySQL Workbench, MAMP, Node.js
-npm package dependencies: 
+Programs used to handle queries / manage database
+```
+MySQL Workbench, MAMP, Node.js
+```
+npm package dependencies
+```
 inquirer@8.2.4 - prompts user using command-line
 mysql2 - connects to SQL database through JavsScript
 cli-table - gives tables upgraded look in command-line interface
-
-Before running the script, install any dependencies with "npm install" first.
-To invoke the CLI, use command "node index.js".
+```
+Before running the script, install any dependencies with this command first
+``` npm install ```
+To invoke the CLI, use the command
+```node index.js```
 Use the arrow keys and enter to nagivate through the interface.
 
 
 ## Demonstration
 https://app.screencastify.com/v3/watch/AgvI75amNUY5szLl1T7f
+
+![staff-manager-screenshot](https://github.com/dvdhyn/staff-manager/assets/145178667/48637dc3-d077-435f-879e-f3ee7c088979)
