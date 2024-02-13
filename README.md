@@ -1,4 +1,4 @@
-# Module 3 Challenge
+# Staff Manager
 
 
 ## Table of Contents
