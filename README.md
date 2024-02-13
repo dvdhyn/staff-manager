@@ -53,8 +53,10 @@ cli-table - gives tables upgraded look in command-line interface
 ```
 Before running the script, install any dependencies with this command first
 ``` npm install ```
+
 To invoke the CLI, use the command
 ```node index.js```
+
 Use the arrow keys and enter to nagivate through the interface.
 
 
