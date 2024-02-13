@@ -11,13 +11,12 @@ INSERT INTO role (title, salary, department_id) VALUES
     ('Junior Software Developer', 50000.00, 4),
     ('Lead Software Developer', 100000.00, 4);
 
-INSERT INTO employee (first_name, last_name, role_id, manager_id) 
-VALUES 
-    ('Eleanor', 'Chang', 1, NULL),
-    ('Harrison', 'Li', 5, NULL),
-    ('Alice', 'Johnson', 3, NULL),
+INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES 
+    ('Eleanor', 'Chang', 1, DEFAULT),
+    ('Harrison', 'Li', 5, DEFAULT),
+    ('Alice', 'Johnson', 3, DEFAULT),
     ('Felix', 'Tran', 4, 2),
-    ('David', 'Brown', 2, NULL),
+    ('David', 'Brown', 2, DEFAULT),
     ('Mia', 'Garcia', 4, 2),
     ('Eli', 'Nguyen', 4, 2),
-    ('Giselle', 'Perez', 3, NULL);
+    ('Giselle', 'Perez', 3, DEFAULT);
