@@ -52,12 +52,9 @@ inquirer@8.2.4 - prompts user using command-line
 mysql2 - connects to SQL database through JavsScript
 cli-table - gives tables upgraded look in command-line interface
 ```
-Before running the script, install any dependencies with 
-``` npm install ```
-and run the ```schema.sql``` and ```seeds.sql``` in MySQL Workbench.
+Before running the script, install any dependencies with `npm install` and run the `schema.sql` and `seeds.sql` in MySQL Workbench.
 
-To invoke the CLI, use the command
-```node index.js```.
+To invoke the CLI, use the command `node index.js`.
 
 Use the arrow keys and enter to nagivate through the interface.
 
